@@ -1,1 +1,1 @@
-# Micjael-Jackson-Decoders
+# Michael-Jackson-Decoders
