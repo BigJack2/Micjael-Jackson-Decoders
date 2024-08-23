@@ -1,0 +1,21 @@
+ol {
+  list-style: none; 
+}
+
+.btn-disco {
+  display: flex;
+  width: 350px;
+  margin-top: 5px;
+  font-size: 20px;
+  border-radius: 5px;
+  color: #103c89;
+  background-color: #ffa31b;
+  padding: 13px;
+  cursor: pointer;
+}
+
+.btn-disco:hover {
+  background-color:  #103c89;
+  color: #ffa31b;
+  transition: 0.5s;
+}
